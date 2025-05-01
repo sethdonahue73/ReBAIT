@@ -1,0 +1,9 @@
+numpy
+xarray
+numpy-quaternion
+matplotlib
+PyQt5
+pyqtgraph
+scipy
+scikit-learn
+netCDF4
